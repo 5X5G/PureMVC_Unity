@@ -6,4 +6,10 @@ PureMVC因为从[PureMVC官网](http://puremvc.org)和[Github仓库](https://git
 ## 环境配置
 [Unity2017.3.0](https://store.unity.com/cn/download?ref=personal)大于此版本应该也是可以运行的,但是低于这个版本需要做测试<br>
 [PureMVC源码](https://github.com/PureMVC/puremvc-csharp-standard-framework)<br>
-[VS2017](https://visualstudio.microsoft.com/zh-hans/)<br>
+[VS2017](https://visualstudio.microsoft.com/zh-hans/)<br><br>
+
+## 相关文章
+[PureMVC官网](http://puremvc.org/)
+[PureMVC官方文档](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf)
+[[Unity]PureMVC框架解读(上) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73692842)
+[[Unity]PureMVC框架解读(下) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73717882)
