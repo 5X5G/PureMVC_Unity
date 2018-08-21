@@ -9,7 +9,7 @@ PureMVC因为从[PureMVC官网](http://puremvc.org)和[Github仓库](https://git
 [VS2017](https://visualstudio.microsoft.com/zh-hans/)<br><br>
 
 ## 相关文章
-[PureMVC官网](http://puremvc.org/)
-[PureMVC官方文档](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf)
-[[Unity]PureMVC框架解读(上) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73692842)
-[[Unity]PureMVC框架解读(下) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73717882)
+[PureMVC官网](http://puremvc.org/)<br>
+[PureMVC官方文档](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf)<br>
+[[Unity]PureMVC框架解读(上) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73692842)<br>
+[[Unity]PureMVC框架解读(下) -U董伟](https://blog.csdn.net/qq_29579137/article/details/73717882)<br>
